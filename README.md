@@ -1,7 +1,7 @@
 # Batmobile
 
 ## Overview
-“Batmobile” project was developed as a part of the Computer Graphics course at Faculty of Technical Sciences in Novi Sad. This GitHub repository contains the source code for the Batmobile 2D and 3D project, implemented using OpenGL. The project demo can be downloaded [**here**](https://github.com/MilenaM06/Computer-Graphics/blob/main/BATMOBILE_3D/batmobile_3D_demo.mkv).
+“Batmobile” project was developed as a part of the Computer Graphics course at Faculty of Technical Sciences in Novi Sad. This GitHub repository contains the source code for the Batmobile 2D and 3D project, implemented using OpenGL. The full 2D specification is available [**here**](https://github.com/MilenaM06/Batmobile-Computer-Graphics/blob/main/BATMOBILE_2D/Specification/Batmobile_2D_Specification_English.pdf), the full 3D specification is available [**here**](https://github.com/MilenaM06/Batmobile-Computer-Graphics/blob/main/BATMOBILE_3D/Specification/Batmobile_3D_Specification_English.pdf) and the project demo can be downloaded [**here**](https://github.com/MilenaM06/Computer-Graphics/blob/main/BATMOBILE_3D/batmobile_3D_demo.mkv).
 
 ## Final Look
 ![Final look](https://github.com/MilenaM06/Computer-Graphics/blob/main/BATMOBILE_3D/batmobile_3D_gif.gif)
